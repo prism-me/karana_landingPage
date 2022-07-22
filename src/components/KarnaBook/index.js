@@ -15,7 +15,7 @@ class KarnaBook extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <section id="karnabook" className="team-member-section ptb-100">
+        <section id="karnabook" className="team-member-section ptb-50">
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-md-12">

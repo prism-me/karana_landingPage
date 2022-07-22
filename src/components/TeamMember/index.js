@@ -21,7 +21,7 @@ class TeamMember extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <section id="team" className="team-member-section ptb-100">
+        <section id="team" className="team-member-section ptb-50">
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-md-8">

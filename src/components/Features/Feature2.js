@@ -15,7 +15,7 @@ class Feature extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <div id="features" className={"feature-section ptb-100 " + (this.props.bgColor && this.props.bgColor === 'gray' ? 'gray-light-bg' : '')}>
+        <div id="features" className={"feature-section ptb-50 " + (this.props.bgColor && this.props.bgColor === 'gray' ? 'gray-light-bg' : '')}>
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-md-8">

@@ -13,7 +13,7 @@
     }
 
     .hero-content-left h1 {
-        font-size: 35px;
+        font-size: 25px;
         line-height: initial;
     }
 
@@ -72,6 +72,21 @@
         margin: 7px 0;
     }
 
+}
+
+@media (max-width: 767px) {
+    .hero-content-left {
+        padding-bottom: 45px;
+    }
+
+    .copyrightwrape {
+        display: block !important;
+        text-align: center;
+    }
+
+    .footerbottomtext {
+        text-align: center;
+    }
 }
 
 /*Small devices (landscape phones, 576px and up)*/

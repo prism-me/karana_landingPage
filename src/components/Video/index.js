@@ -20,7 +20,7 @@ class Video extends React.Component {
       <React.Fragment>
         <section
           id="contact"
-          className="video-promo py-4 background-img"
+          className="video-promo ptb-50 background-img"
         // style={{
         //   backgroundImage: "url('img/video-bg.jpg')",
         //   backgroundRepeat: "no-repeat",

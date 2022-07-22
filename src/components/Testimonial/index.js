@@ -15,7 +15,7 @@ class About extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <section id="howitworks" className="about-us ptb-100 gray-light-bg">
+        <section id="howitworks" className="about-us ptb-50 gray-light-bg">
           <div className="container">
             <div className="row align-items-center justify-content-between">
               <div className="col-md-6">

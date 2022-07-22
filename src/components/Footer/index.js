@@ -102,10 +102,10 @@ class Footer extends React.Component {
           >
             <div className="container">
               <hr style={{ border: "0.5px solid #FFFFFF", marginBottom: "2rem", opacity: "0.8" }} />
-              <p className="text-white">
+              <p className="text-white footerbottomtext">
                 This game involves an element of financial risk and may be addictive. Please play responsibly at your own risk. T&C Apply, For 18+ Only.
               </p>
-              <div className="d-flex justify-content-between align-items-center">
+              <div className="d-flex justify-content-between align-items-center copyrightwrape">
                 {/* <div className="col-md-6 col-lg-5"> */}
                 <p className="copyright-text pb-0 mb-0">
                   Copyright © 2022 <a href="/">Karna Book</a>. All Rights Reserved  | Designed and managed by
