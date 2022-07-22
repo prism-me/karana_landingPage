@@ -753,7 +753,8 @@ select.form-control.has-value {
 }
 
 .bg-transparent.affix {
-    background-image: linear-gradient(to right, rgba(32, 40, 119, 1), rgba(55, 46, 149, 1), rgba(83, 49, 177, 1), rgba(114, 48, 205, 1), rgba(150, 41, 230, 1)) !important;
+    background: linear-gradient(90deg, #2F3383 0.96%, #E78503 100%);
+    /* background-image: linear-gradient(to right, rgba(32, 40, 119, 1), rgba(55, 46, 149, 1), rgba(83, 49, 177, 1), rgba(114, 48, 205, 1), rgba(150, 41, 230, 1)) !important; */
 }
 
 .navbar {
@@ -762,7 +763,7 @@ select.form-control.has-value {
 
 @media (min-width: 320px) and (max-width: 992px) {
     .navbar {
-        background: #202877 !important;
+        background: #2F3383 !important;
         padding: .95rem 1rem;
     }
 
