@@ -72,9 +72,24 @@
         margin: 7px 0;
     }
 
+    .whatsapp-btn {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .solid-btn {
+        width: 100%;
+    }
+
+    /* .whatsappdivwrape {
+        display: block !important;
+    } */
+
 }
 
 @media (max-width: 767px) {
+
+
     .hero-content-left {
         padding-bottom: 45px;
     }
@@ -86,6 +101,10 @@
 
     .footerbottomtext {
         text-align: center;
+    }
+
+    .whatsapp-btn {
+        margin-bottom: 2rem;
     }
 }
 
