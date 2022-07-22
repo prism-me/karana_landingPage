@@ -27,10 +27,10 @@ class HeroSection extends React.Component {
         >
           <div className="video-section-wrap">
             <div className="background-video-overly pt-100">
-              <div
+              {/* <div
                 className="player"
                 data-property="{videoURL:'https://www.youtube.com/watch?v=gOqlwlQjVis',containment:'.video-section-wrap', quality:'highres', autoPlay:true, showControls: false, startAt:0, mute:true, opacity: 1}"
-              ></div>
+              ></div> */}
               <div className="container">
                 <div className="row align-items-center justify-content-center">
                   {/* <div className="col-md-9 col-lg-7"> */}
