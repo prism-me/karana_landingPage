@@ -188,31 +188,36 @@ module.exports = {
         name: "Edna Mason",
         designation: "Senior Designer",
         image: "img/karnaimg/team/team1.png",
-        btntxt: "LIVEBOOK1"
+        btntxt: "LIVEBOOK1",
+        link: "https://wa.me/+918548888883"
       },
       {
         name: "Arabella Ora",
         designation: "Senior Designer",
         image: "img/karnaimg/team/team2.png",
-        btntxt: "LORD"
+        btntxt: "LORD",
+        link: "https://wa.me/+918999999904"
       },
       {
         name: "John Charles",
         designation: "Senior Designer",
         image: "img/karnaimg/team/team3.png",
-        btntxt: "WORLD777"
+        btntxt: "WORLD777",
+        link: "https://wa.me/+919300000457"
       },
       {
         name: "Jeremy Jere",
         designation: "Senior Designer",
         image: "img/karnaimg/team/team4.png",
-        btntxt: "TIGER EXCHANGE"
+        btntxt: "SKY EXCHANGE",
+        link: "https://wa.me/+919200000037"
       },
       {
         name: "Jeremy Jere",
         designation: "Senior Designer",
         image: "img/karnaimg/team/team4.png",
-        btntxt: "TIGER EXCHANGE"
+        btntxt: "TIGER EXCHANGE",
+        link: "https://wa.me/+917506355555"
       }
     ]
   },

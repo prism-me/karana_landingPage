@@ -24,50 +24,50 @@ class About extends React.Component {
                     BEST FEATURES
                   </span>
                   <h5 className="h5 mb-5 featuresubHeading">
-                    How It Works
+                    How Karna Book Works
                   </h5>
                   <p>
-                    Lorem ipsum dolor sit amet. Sed quia labore qui magni sunt ut veritatis dolore vel ducimus commodi qui tenetur ipsum ad voluptatem quidem aut delectus saepe.{" "}
+                    Karna Online Book has simplified the process so that you can start to play and earn almost immediately. Here is our process.{" "}
                   </p>
 
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       <span className="ti-vector rounded mr-3 icon icon-color-1"></span>
-                      <h5 className="mb-0">Message us on our WhatsApp number</h5>
+                      <h5 className="mb-0">Customer connects with us</h5>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet. Sed quia labore qui magni sunt ut veritatis.
+                      You message us on our WhatsApp number.
                     </p>
                   </div>
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span>
-                      <h5 className="mb-0">Customer Satisfy guaranteed with all information</h5>
+                      <h5 className="mb-0">We Exchange Information</h5>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet. Sed quia labore qui magni sun.
+                      We give you a walkthrough of the system and guarantee your satisfaction.
                     </p>
                   </div>
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       <span className="ti-alarm-clock rounded mr-3 icon icon-color-3"></span>
-                      <h5 className="mb-0">Start depositing & withdrawal instantly</h5>
+                      <h5 className="mb-0">We Share Instant Access</h5>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet. Sed quia labore qui magni sunt ut veritatis dolore vel ducimus commodi qui tenetur ipsum ad voluptatem.
+                      You can immediately start to deposit and withdraw.
                     </p>
                   </div>
 
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span>
-                      <h5 className="mb-0">Earn from your skills</h5>
+                      <h5 className="mb-0">You Start Earning </h5>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet. Sed quia labore qui.
+                      You start playing and earn as much as you can depending on your skills.
                     </p>
                   </div>
-                  <a href="/#" className="btn solid-btn mt-2">
+                  <a href="https://wa.me/+919300000457" target={"_blank"} className="btn solid-btn mt-2">
                     REGISTER NOW FOR FREE
                   </a>
                 </div>

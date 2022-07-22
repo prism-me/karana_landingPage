@@ -86,7 +86,7 @@ class Header extends React.Component {
                   </li>
                   <li className="nav-item">
                     <a className="nav-link page-scroll" href="#karnabook">
-                      My Karna Book
+                      Why Karna Book
                     </a>
                   </li>
                   <li className="nav-item">

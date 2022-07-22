@@ -15,20 +15,20 @@ class Feature extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <div id="features" className={"feature-section ptb-50 " + (this.props.bgColor && this.props.bgColor === 'gray' ? 'gray-light-bg' : '')}>
+        <div id="karnabook" className={"feature-section ptb-50 " + (this.props.bgColor && this.props.bgColor === 'gray' ? 'gray-light-bg' : '')}>
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-md-8">
                 <div className="section-heading text-center mb-5">
                   <span className="featureHeading">
-                    BEST FEATURES
+                    Our Distinct Features
                   </span>
                   <h2 className="featuresubHeading">
                     Why Karna Book
                   </h2>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet. Sed quia labore qui magni sunt ut veritatis dolore vel ducimus commodi qui tenetur ipsum ad voluptatem quidem aut delectus saepe.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
@@ -44,7 +44,7 @@ class Feature extends React.Component {
                   <div className="icon-text">
                     <h5>ONLINE ID</h5>
                     <p className="mb-0">
-                      Get your online cricket/sports id with us and instantly start Playing. Message us to get your ID now.
+                      Get your online cricket/sports ID and instantly start playing. Message us to get your ID now.
                     </p>
                   </div>
                 </div>
@@ -57,7 +57,7 @@ class Feature extends React.Component {
                   <div className="icon-text">
                     <h5>24 /7 SUPPORT</h5>
                     <p className="mb-0">
-                      We have a team of experts who available 24/7 to guide you through our whatsApp chats.
+                      A dedicated team of experts is always available to guide you throughout the day via WhatsApp.
                     </p>
                   </div>
                 </div>
@@ -68,9 +68,9 @@ class Feature extends React.Component {
                     </div>
                   </div>
                   <div className="icon-text">
-                    <h5>100% TRUSTED SERVICE</h5>
+                    <h5>100% TRUSTWORTHY SERVICE</h5>
                     <p className="mb-0">
-                      Transparency and accuracy is the most important for us and for our customer. We deal in the most transparent way.
+                      Transparency is paramount to us and our customers & we keep everything clear and transparent.
                     </p>
                   </div>
                 </div>
@@ -94,7 +94,7 @@ class Feature extends React.Component {
                   <div className="icon-text">
                     <h5>INSTANT WITHDRAWAL & REFILL</h5>
                     <p className="mb-0">
-                      Karna Book provides instant service of id withdrawal & refilling with min to max amount.
+                      We offer instant and unlimited withdrawal & refilling service.
                     </p>
                   </div>
                 </div>
@@ -105,9 +105,9 @@ class Feature extends React.Component {
                     </div>
                   </div>
                   <div className="icon-text">
-                    <h5>AVAILABLE PAYMENT METHODS</h5>
+                    <h5>MULTIPLE PAYMENT METHODS</h5>
                     <p className="mb-0">
-                      Multiple methods are available for Paymetns. Customer can pay via Net Banking, Bank Transfer, Paytm, Google pay, IMPS, PhonePe etc.
+                      We offer convenient payment methods so you can pay via Net Banking, Bank Transfer, Paytm, Google pay, IMPS, PhonePe, etc.
                     </p>
                   </div>
                 </div>
@@ -118,9 +118,9 @@ class Feature extends React.Component {
                     </div>
                   </div>
                   <div className="icon-text">
-                    <h5>HIGH SECURITY</h5>
+                    <h5>DATA PROTECTION & SECURITY</h5>
                     <p className="mb-0">
-                      Security is our Top priority and hence your data and imformation is safe and is not shared at any Point!
+                      We prioritize security, hence your data and your personal information is secure and is not shared at any point.
                     </p>
                   </div>
                 </div>

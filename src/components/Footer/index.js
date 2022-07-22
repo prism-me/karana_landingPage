@@ -39,27 +39,30 @@ class Footer extends React.Component {
                       width="80"
                       className="img-fluid mb-3"
                     />
-                    <p className="mb-4">
-                      We are India's No 1 Exchange and the First That Provide 24*7 Withdrawal Facility. We offer you a genuinely unique sports experience. Besides, We also offer global liquidity.
+                    <p className="mb-2">
+                      Karna Book is India's No 1 Exchange and the first of its kind providing a 24/7 withdrawal facility. We offer you a genuinely unique sports experience.
                     </p>
 
+                    <p className="mb-4">
+                      Get in touch with us now and get a step-by-step guide to help beginners start their journey.
+                    </p>
                     <div className="social-list-wrap">
                       <h5 className="mb-3 text-white">
-                        Get Started Playing <BsArrowRightSquare className="ml-2" />
+                        Start Playing Now <a href="https://wa.me/+919300000457" target="_blank" className="text-white"><BsArrowRightSquare className="ml-2" /></a>
                       </h5>
                       <ul className="social-list list-inline list-unstyled">
                         <li className="list-inline-item">
-                          <a href="/#" target="_blank" title="Instagram">
+                          <a href="https://www.instagram.com/karnabook_official/" target="_blank" title="Instagram">
                             <FaInstagram className="footersocialicon" />
                           </a>
                         </li>
                         <li className="list-inline-item">
-                          <a href="/#" target="_blank" title="Telegram">
+                          <a href="https://t.me/joinchat/VOtSBavdT4yuNzf9" target="_blank" title="Telegram">
                             <FaTelegramPlane className="footersocialicon" />
                           </a>
                         </li>
                         <li className="list-inline-item">
-                          <a href="/#" target="_blank" title="WhatsApp">
+                          <a href="https://wa.me/+919300000457" target="_blank" title="WhatsApp">
                             <FaWhatsapp className="footersocialicon" />
                           </a>
                         </li>
@@ -73,23 +76,23 @@ class Footer extends React.Component {
                     <ul className="list-unstyled support-list">
                       <li className="mb-3 d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
-                        <a href="tel:+919343463434">+91 9343463434</a>
+                        <a href="https://wa.me/+919343463434" target="_blank">+91 9343463434</a>
                       </li>
                       <li className="mb-3 d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
-                        <a href="tel:+9179093000014">+91 7909300001</a>
+                        <a href="https://wa.me/+917909300001" target="_blank">+91 7909300001</a>
                       </li>
                       <li className="mb-3 d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
-                        <a href="tel:+917262999994">+91 7262999994</a>
+                        <a href="https://wa.me/+917262999994" target="_blank">+91 7262999994</a>
                       </li>
                       <li className="mb-3 d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
-                        <a href="tel:+917261999994">+91 7261999994</a>
+                        <a href="https://wa.me/+917261999994" target="_blank">+91 7261999994</a>
                       </li>
                       <li className="d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
-                        <a href="tel:+918305555555">+91 8305555555</a>
+                        <a href="https://wa.me/+918305555555" target="_blank">+91 8305555555</a>
                       </li>
                     </ul>
                   </div>
@@ -109,7 +112,7 @@ class Footer extends React.Component {
                 {/* <div className="col-md-6 col-lg-5"> */}
                 <p className="copyright-text pb-0 mb-0">
                   Copyright © 2022 <a href="/">Karna Book</a>. All Rights Reserved  | Designed and managed by
-                  <a href="/#"> Prism Digital</a>.
+                  <a href="https://www.prism-me.com/" target="_blank"> Prism Digital</a>.
                 </p>
                 <p className="copyright-text pb-0 mb-0">
                   <a href="/#" className="mr-3">Terms</a> <a href="/#" className="mr-3">Security</a> <a href="/#"> Privacy Policy</a>

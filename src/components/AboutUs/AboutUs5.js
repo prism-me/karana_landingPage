@@ -24,15 +24,16 @@ class About extends React.Component {
                     We are Karna Book
                   </span>
                   <h5 className="h5 mb-5 featuresubHeading">
-                    THE BIGGEST PLATFORM FOR PROVIDING ONLINE SPORTS ID's
+                    The Most Trusted Platform Providing Online Sports IDs
                   </h5>
                   <p>
-                    Welcome to Karna Book, We are India's No 1 Exchange and the First That Provide 24*7 Withdrawal Facility. We offer you a genuinely unique sports experience. Besides, We also offer global liquidity, best industry pricing with a single click. Get Fantasy Sports ID to Play fantasy Cricket, Play fantasy Football, Play fantasy Baseball, Play fantasy Basketball, Play fantasy Hockey, Play fantasy Soccer, Play fantasy Golf, Play fantasy Esports.{" "}
+                    Karna Book is India's No 1 Exchange and the first of its kind providing a 24/7 withdrawal facility. We offer you a genuinely unique sports experience. We also offer global liquidity & the best industry pricing with a single click. Get Fantasy Sports IDs to play a variety of fantasy sports including fantasy cricket, fantasy football, fantasy baseball, fantasy basketball, fantasy hockey, fantasy soccer, fantasy golf as well as fantasy Esports.{" "}
                   </p>
-                  <a href="/#" className="btn solid-btn mt-2 mr-3">
-                    Whatsapp Us On +919343463434
+                  <a href="https://wa.me/+919343463434" target="_blank" className="btn solid-btn mt-2 mr-3" style={{ borderRadius: "0" }}>
+                    Whatsapp Us at +919343463434
                   </a>
-                  <a href="/#" className="btn solid-btn mt-2">
+                  <a href="https://wa.me/+919300000457" target="_blank" className="btn solid-btn mt-2"
+                    style={{ borderRadius: "0", background: "white", border: "1px solid #F69C06", color: "#F69C06" }}>
                     Get Your Demo ID Now
                   </a>
                 </div>

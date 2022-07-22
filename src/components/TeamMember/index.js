@@ -33,7 +33,7 @@ class TeamMember extends React.Component {
                     OUR PARTNERS
                   </h2>
                   <p>
-                    Lorem ipsum dolor sit amet. Sed quia labore qui magni sunt ut veritatis dolore vel ducimus commodi qui tenetur ipsum ad voluptatem quidem aut delectus saepe.
+                    We’ve partnered with multiple entities to offer seamless customer experience and unmatched service.
                   </p>
                 </div>
               </div>
@@ -56,7 +56,7 @@ class TeamMember extends React.Component {
                           className="img-fluid rounded-circle"
                         />
                       </div>
-                      <div className="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
+                      {/* <div className="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                         <h5 className="mb-0">{member.name}</h5>
                         <h6>{member.designation}</h6>
                         <ul className="list-inline team-social social-icon mt-4 text-white">
@@ -81,10 +81,10 @@ class TeamMember extends React.Component {
                             </a>
                           </li>
                         </ul>
-                      </div>
+                      </div> */}
                     </div>
                     <center>
-                      <a href="/#" className="btn team-btn mt-4">
+                      <a href={member.link} target="_blank" className="btn team-btn mt-4">
                         {
                           member.btntxt
                         }

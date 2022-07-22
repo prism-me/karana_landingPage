@@ -36,14 +36,16 @@ class HeroSection extends React.Component {
                   {/* <div className="col-md-9 col-lg-7"> */}
                   <div className="col">
                     <div className="hero-content-left text-white text-center mt-5 pt-100">
-                      <h1 className="text-white">THE BIGGEST SPORTS BOOKING PLATORM</h1>
+                      <h3 className="text-white">Welcome to Karna Online Book</h3>
+                      <h1 className="text-white text-uppercase">The Biggest & Most Trusted Sports Booking Platform</h1>
                       <p className="lead">
-                        Since 2008  |  for 18+ only
+                        Since 2008
+                        {/* |  for 18+ only */}
                       </p>
                       <p >
                         Most Trusted Platform for Sports News & Events{" "}
                       </p>
-                      <a href="#contact" className="btn google-play-btn page-scroll">
+                      <a href="https://wa.me/+918999999904" target="_blank" className="btn google-play-btn">
                         REGISTER NOW FOR FREE
                       </a>
                     </div>
@@ -56,21 +58,21 @@ class HeroSection extends React.Component {
                   <ul className="listwrape">
                     <li className="list-inline-item">
                       <div className="bannersingle-counter text-center">
-                        <span>24x7x365</span>
+                        <span>24/7 x 365</span>
                         <h6>Instant <br />
                           Withdrawal</h6>
                       </div>
                     </li>
                     <li className="list-inline-item">
                       <div className="bannersingle-counter text-center">
-                        <span style={{ color: "#E68401" }}>2.37 Lakhs+</span>
-                        <h6>Trusted Customers <br />
-                          & Counting</h6>
+                        <span style={{ color: "#E68401" }}>2.37 Lakhs & Counting</span>
+                        <h6>Trusted <br />Customers
+                        </h6>
                       </div>
                     </li>
                   </ul>
                   <center>
-                    <a href="#contact" className="btn solid-btn mt-4">
+                    <a href="https://wa.me/+919300000457" target="_blank" className="btn solid-btn mt-4">
                       Create your Free Id
                     </a>
                   </center>

@@ -570,11 +570,13 @@ select.form-control.has-value {
     font-weight: 500;
     font-size: 1.5rem;
     color: #F69C06;
+    text-transform: capitalize;
 }
 
 .section-heading .featuresubHeading {
     font-weight: 500;
     font-size: 2rem;
+    text-transform: uppercase;
 }
 
 
