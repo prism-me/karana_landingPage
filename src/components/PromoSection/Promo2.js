@@ -17,7 +17,7 @@ class PromoSection extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <section className={"promo-section ptb-100 " + (this.props.removeTopMargin ? '' : 'mt-5')}>
+        <section className={"promo-section ptb-50 gray-light-bg" + (this.props.removeTopMargin ? '' : 'mt-5')}>
           <div className="container">
             <div className="row">
               <div className="col-lg-6 col-md-10">
