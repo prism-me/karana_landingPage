@@ -105,19 +105,19 @@ class Footer extends React.Component {
           >
             <div className="container">
               <hr style={{ border: "0.5px solid #FFFFFF", marginBottom: "2rem", opacity: "0.8" }} />
-              <p className="text-white footerbottomtext">
+              <p className="text-white text-center footerbottomtext">
                 This game involves an element of financial risk and may be addictive. Please play responsibly at your own risk. T&C Apply, For 18+ Only.
               </p>
-              <div className="d-flex justify-content-between align-items-center copyrightwrape">
-                {/* <div className="col-md-6 col-lg-5"> */}
-                <p className="copyright-text pb-0 mb-0">
-                  Copyright © 2022 <a href="/">Karna Book</a>. All Rights Reserved  | Designed and managed by
-                  <a href="https://www.prism-me.com/" target="_blank"> Prism Digital</a>.
-                </p>
-                <p className="copyright-text pb-0 mb-0">
+              <div className="row text-center justify-content-center">
+                <div className="col-md-8 col-lg-8">
+                  <p className="copyright-text pb-0 mb-0">
+                    Copyright © 2022 <a href="/">Karna Book</a>. All Rights Reserved  | Designed and managed by
+                    <a href="https://www.prism-me.com/" target="_blank"> Prism Digital</a>.
+                  </p>
+                  {/* <p className="copyright-text pb-0 mb-0">
                   <a href="/#" className="mr-3">Terms</a> <a href="/#" className="mr-3">Security</a> <a href="/#"> Privacy Policy</a>
-                </p>
-                {/* </div> */}
+                </p> */}
+                </div>
               </div>
             </div>
           </div>
