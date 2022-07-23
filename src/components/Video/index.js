@@ -2,7 +2,6 @@ import React from "react";
 import { connect } from "react-redux";
 import { FaWhatsapp } from 'react-icons/fa';
 
-
 class Video extends React.Component {
   constructor(props) {
     super(props);

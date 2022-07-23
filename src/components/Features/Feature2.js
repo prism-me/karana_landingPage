@@ -1,4 +1,5 @@
 import React from "react";
+import { BiUserCircle } from 'react-icons/bi';
 
 class Feature extends React.Component {
   constructor(props) {
@@ -39,6 +40,7 @@ class Feature extends React.Component {
                   <div className="pr-4">
                     <div className="icon icon-shape icon-color-1 rounded-circle">
                       <span className="ti-face-smile"></span>
+                      {/* <BiUserCircle /> */}
                     </div>
                   </div>
                   <div className="icon-text">

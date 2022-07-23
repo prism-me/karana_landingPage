@@ -1,4 +1,9 @@
 import React from "react";
+import { RiCustomerService2Line } from 'react-icons/ri';
+import { FaStackExchange } from 'react-icons/fa';
+import { TbAccessible } from 'react-icons/tb';
+import { GiTakeMyMoney } from 'react-icons/gi';
+
 
 class About extends React.Component {
   constructor(props) {
@@ -32,7 +37,8 @@ class About extends React.Component {
 
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
-                      <span className="ti-vector rounded mr-3 icon icon-color-1"></span>
+                      {/* <span className="ti-vector rounded mr-3 icon icon-color-1"></span> */}
+                      <RiCustomerService2Line className="rounded mr-3 icon icon-color-1" />
                       <h5 className="mb-0">Customer connects with us</h5>
                     </div>
                     <p>
@@ -41,7 +47,8 @@ class About extends React.Component {
                   </div>
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
-                      <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span>
+                      {/* <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span> */}
+                      <FaStackExchange className="rounded mr-3 icon icon-color-2" />
                       <h5 className="mb-0">We Exchange Information</h5>
                     </div>
                     <p>
@@ -50,7 +57,8 @@ class About extends React.Component {
                   </div>
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
-                      <span className="ti-alarm-clock rounded mr-3 icon icon-color-3"></span>
+                      {/* <span className="ti-alarm-clock rounded mr-3 icon icon-color-3"></span> */}
+                      <TbAccessible className="rounded mr-3 icon icon-color-3" />
                       <h5 className="mb-0">We Share Instant Access</h5>
                     </div>
                     <p>
@@ -60,7 +68,8 @@ class About extends React.Component {
 
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
-                      <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span>
+                      {/* <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span> */}
+                      <GiTakeMyMoney className="rounded mr-3 icon icon-color-4" />
                       <h5 className="mb-0">You Start Earning </h5>
                     </div>
                     <p>
