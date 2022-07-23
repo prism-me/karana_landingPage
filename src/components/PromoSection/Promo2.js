@@ -21,7 +21,7 @@ class PromoSection extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-lg-6 col-md-10">
-                <div className="section-heading mb-5">
+                <div className="section-heading mb-4">
                   <span className="featureHeading">
                     Key Features
                   </span>

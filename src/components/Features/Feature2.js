@@ -38,10 +38,10 @@ class Feature extends React.Component {
               <div className="col-lg-4">
                 <div className="d-flex align-items-start mb-5">
                   <div className="pr-4">
-                    <div className="icon icon-shape icon-color-1 rounded-circle">
+                    {/* <div className="icon icon-shape icon-color-1 rounded-circle">
                       <span className="ti-face-smile"></span>
-                      {/* <BiUserCircle /> */}
-                    </div>
+                    </div> */}
+                    <img src="img/karnaimg/icon/userid.png" />
                   </div>
                   <div className="icon-text">
                     <h5>ONLINE ID</h5>
@@ -52,9 +52,10 @@ class Feature extends React.Component {
                 </div>
                 <div className="d-flex align-items-start mb-5">
                   <div className="pr-4">
-                    <div className="icon icon-shape icon-color-2 rounded-circle">
+                    {/* <div className="icon icon-shape icon-color-2 rounded-circle">
                       <span className="ti-vector"></span>
-                    </div>
+                    </div> */}
+                    <img src="img/karnaimg/icon/security.png" />
                   </div>
                   <div className="icon-text">
                     <h5>24 /7 SUPPORT</h5>
@@ -65,9 +66,10 @@ class Feature extends React.Component {
                 </div>
                 <div className="d-flex align-items-start">
                   <div className="pr-4">
-                    <div className="icon icon-shape icon-color-3 rounded-circle">
+                    {/* <div className="icon icon-shape icon-color-3 rounded-circle">
                       <span className="ti-headphone-alt"></span>
-                    </div>
+                    </div> */}
+                    <img src="img/karnaimg/icon/service.png" />
                   </div>
                   <div className="icon-text">
                     <h5>100% TRUSTWORTHY SERVICE</h5>
@@ -89,9 +91,10 @@ class Feature extends React.Component {
               <div className="col-lg-4">
                 <div className="d-flex align-items-start mb-5">
                   <div className="pr-4">
-                    <div className="icon icon-shape icon-color-4 rounded-circle">
+                    {/* <div className="icon icon-shape icon-color-4 rounded-circle">
                       <span className="ti-layout-media-right"></span>
-                    </div>
+                    </div> */}
+                    <img src="img/karnaimg/icon/refil.png" />
                   </div>
                   <div className="icon-text">
                     <h5>INSTANT WITHDRAWAL & REFILL</h5>
@@ -102,9 +105,10 @@ class Feature extends React.Component {
                 </div>
                 <div className="d-flex align-items-start mb-5">
                   <div className="pr-4">
-                    <div className="icon icon-shape icon-color-5 rounded-circle">
+                    {/* <div className="icon icon-shape icon-color-5 rounded-circle">
                       <span className="ti-layout-cta-right"></span>
-                    </div>
+                    </div> */}
+                    <img src="img/karnaimg/icon/payment.png" />
                   </div>
                   <div className="icon-text">
                     <h5>MULTIPLE PAYMENT METHODS</h5>
@@ -115,9 +119,10 @@ class Feature extends React.Component {
                 </div>
                 <div className="d-flex align-items-start">
                   <div className="pr-4">
-                    <div className="icon icon-shape icon-color-6 rounded-circle">
+                    {/* <div className="icon icon-shape icon-color-6 rounded-circle">
                       <span className="ti-palette"></span>
-                    </div>
+                    </div> */}
+                    <img src="img/karnaimg/icon/data.png" />
                   </div>
                   <div className="icon-text">
                     <h5>DATA PROTECTION & SECURITY</h5>

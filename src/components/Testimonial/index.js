@@ -38,7 +38,7 @@ class About extends React.Component {
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       {/* <span className="ti-vector rounded mr-3 icon icon-color-1"></span> */}
-                      <RiCustomerService2Line className="rounded mr-3 icon icon-color-1" />
+                      <RiCustomerService2Line className="rounded mr-3 icon icon-color-0" />
                       <h5 className="mb-0">Customer connects with us</h5>
                     </div>
                     <p>
@@ -48,7 +48,7 @@ class About extends React.Component {
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       {/* <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span> */}
-                      <FaStackExchange className="rounded mr-3 icon icon-color-2" />
+                      <FaStackExchange className="rounded mr-3 icon icon-color-0" />
                       <h5 className="mb-0">We Exchange Information</h5>
                     </div>
                     <p>
@@ -58,7 +58,7 @@ class About extends React.Component {
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       {/* <span className="ti-alarm-clock rounded mr-3 icon icon-color-3"></span> */}
-                      <TbAccessible className="rounded mr-3 icon icon-color-3" />
+                      <TbAccessible className="rounded mr-3 icon icon-color-0" />
                       <h5 className="mb-0">We Share Instant Access</h5>
                     </div>
                     <p>
@@ -69,7 +69,7 @@ class About extends React.Component {
                   <div className="single-feature mb-4">
                     <div className="d-flex align-items-center mb-2">
                       {/* <span className="ti-dashboard rounded mr-3 icon icon-color-2"></span> */}
-                      <GiTakeMyMoney className="rounded mr-3 icon icon-color-4" />
+                      <GiTakeMyMoney className="rounded mr-3 icon icon-color-0" />
                       <h5 className="mb-0">You Start Earning </h5>
                     </div>
                     <p>

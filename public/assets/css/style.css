@@ -365,6 +365,12 @@ b {
     background: #399fb6;
 }
 
+.icon-color-0 {
+    background-color: #e6840247;
+    color: #E68402;
+    border-radius: 100% !important;
+}
+
 .icon-color-1 {
     background: #efdff7;
     color: #b17cc6;
