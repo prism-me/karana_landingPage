@@ -53,16 +53,18 @@ class HeroSection extends React.Component {
               <ul className="listwrape">
                 <li className="list-inline-item">
                   <div className="bannersingle-counter text-center">
-                    <span>24/7 x 365</span>
-                    <h6>Instant <br />
-                      Withdrawal</h6>
+                    <span>Instant <br />
+                      Withdrawal</span>
+                    <h6>24/7 x 365</h6>
                   </div>
                 </li>
                 <li className="list-inline-item">
                   <div className="bannersingle-counter text-center">
-                    <span style={{ color: "#E68401" }}>2.37 Lakhs & Counting</span>
-                    <h6>Trusted <br />Customers
+                    <span style={{ color: "#E68401" }}>Trusted <br />Customers</span>
+                    <h6>
+                      2.37 Lakhs & Counting
                     </h6>
+
                   </div>
                 </li>
               </ul>

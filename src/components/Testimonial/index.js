@@ -25,11 +25,11 @@ class About extends React.Component {
             <div className="row align-items-center justify-content-between">
               <div className="col-md-6">
                 <div className="about-content-left section-heading">
-                  <span className="featureHeading">
+                  {/* <span className="featureHeading">
                     BEST FEATURES
-                  </span>
-                  <h5 className="h5 mb-5 featuresubHeading">
-                    How Karna Book Works
+                  </span> */}
+                  <h5 className="h5 mb-3 featuresubHeading" style={{ color: "#F69C06" }}>
+                    How Karna Online Book Works
                   </h5>
                   <p>
                     Karna Online Book has simplified the process so that you can start to play and earn almost immediately. Here is our process.{" "}

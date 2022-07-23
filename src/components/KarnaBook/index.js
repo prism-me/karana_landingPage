@@ -24,7 +24,7 @@ class KarnaBook extends React.Component {
                     Karna Online Book
                   </span>
                   <h2 className="featuresubHeading">
-                    The Biggest Platform Offering Online Sports Betting IDs
+                    The Biggest Platform Offering Online Sports Betting ID<span className="">s</span>
                   </h2>
                   <p className="mb-0">
                     Reach Out to Us on WhatsApp and Get your betting ID Now!

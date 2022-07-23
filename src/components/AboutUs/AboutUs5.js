@@ -21,13 +21,13 @@ class About extends React.Component {
               <div className="col-md-7">
                 <div className="about-content-left section-heading">
                   <span className="featureHeading">
-                    We are Karna Book
+                    We are Karna Online Book
                   </span>
-                  <h5 className="h5 mb-5 featuresubHeading">
+                  <h5 className="h5 mb-5 mt-2 featuresubHeading">
                     The Most Trusted Platform Providing Online Sports IDs
                   </h5>
                   <p>
-                    Karna Book is India's No 1 Exchange and the first of its kind providing a 24/7 withdrawal facility. We offer you a genuinely unique sports experience. We also offer global liquidity & the best industry pricing with a single click. Get Fantasy Sports IDs to play a variety of fantasy sports including fantasy cricket, fantasy football, fantasy baseball, fantasy basketball, fantasy hockey, fantasy soccer, fantasy golf as well as fantasy Esports.{" "}
+                    Karna Online Book is India's No 1 Exchange and the first of its kind providing a 24/7 withdrawal facility. We offer you a genuinely unique sports experience. We also offer global liquidity & the best industry pricing with a single click. Get Fantasy Sports IDs to play a variety of fantasy sports including fantasy cricket, fantasy football, fantasy baseball, fantasy basketball, fantasy hockey, fantasy soccer, fantasy golf as well as fantasy Esports.{" "}
                   </p>
                   <a href="https://wa.me/+919343463434" target="_blank" className="btn solid-btn mt-2 mr-3" style={{ borderRadius: "0" }}>
                     Whatsapp Us at +919343463434

@@ -25,7 +25,7 @@ class Feature extends React.Component {
                     Our Distinct Features
                   </span>
                   <h2 className="featuresubHeading">
-                    Why Karna Book
+                    Why Choose Karna Online Book
                   </h2>
                   {/* <p>
                     Lorem ipsum dolor sit amet. Sed quia labore qui magni sunt ut veritatis dolore vel ducimus commodi qui tenetur ipsum ad voluptatem quidem aut delectus saepe.

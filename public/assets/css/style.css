@@ -581,8 +581,8 @@ select.form-control.has-value {
 
 .section-heading .featuresubHeading {
     font-weight: 500;
-    font-size: 2rem;
-    text-transform: uppercase;
+    font-size: 1.8rem;
+    text-transform: capitalize;
 }
 
 

@@ -1,6 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
-import { FaWhatsapp } from 'react-icons/fa';
+// import { FaWhatsapp } from 'react-icons/fa';
 
 class PromoSection extends React.Component {
   constructor(props) {
@@ -20,18 +20,18 @@ class PromoSection extends React.Component {
         <section className={"promo-section ptb-50 gray-light-bg" + (this.props.removeTopMargin ? '' : 'mt-5')}>
           <div className="container">
             <div className="row">
-              <div className="col-lg-6 col-md-10">
-                <div className="section-heading mb-4">
-                  <span className="featureHeading">
+              <div className="col-lg-12 col-md-10">
+                <div className="section-heading text-center mb-5">
+                  {/* <span className="featureHeading">
                     Key Features
-                  </span>
-                  <h5 className="h5 featuresubHeading">
+                  </span> */}
+                  <h5 className="h5 featuresubHeading" style={{ color: "#F69C06" }}>
                     {/* Providing Online Sports ID's. */}
-                    What Makes Karna Book Different?
+                    What Makes Karna Online Book Different?
                   </h5>
-                  <a href="https://wa.me/+919300000457" target="_blank" className="btn whatsapp-btn mt-4 mb-4">
+                  {/* <a href="https://wa.me/+919300000457" target="_blank" className="btn whatsapp-btn mt-4 mb-4">
                     <FaWhatsapp /> Whatsapp Now
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

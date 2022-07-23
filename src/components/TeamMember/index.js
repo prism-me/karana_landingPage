@@ -26,11 +26,11 @@ class TeamMember extends React.Component {
             <div className="row justify-content-center">
               <div className="col-md-8">
                 <div className="section-heading text-center mb-5">
-                  <span className="featureHeading">
+                  {/* <span className="featureHeading">
                     OUR TEAM
-                  </span>
-                  <h2 className="featuresubHeading">
-                    OUR PARTNERS
+                  </span> */}
+                  <h2 className="featuresubHeading" style={{ color: "#F69C06" }}>
+                    Our Partners
                   </h2>
                   <p>
                     We’ve partnered with multiple entities to offer seamless customer experience and unmatched service.
