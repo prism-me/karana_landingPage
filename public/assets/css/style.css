@@ -770,9 +770,44 @@ select.form-control.has-value {
 }
 
 @media (min-width: 320px) and (max-width: 992px) {
+
+    .video-promo-content .row.my-5 {
+        margin-bottom: 1rem !important;
+    }
+
+    section#howitworks {
+        padding-bottom: 0;
+    }
+
+    .owl-carousel .owl-item img.img-fluid.rounded-circle {
+        width: auto;
+        margin: 0 auto;
+    }
+
+    .section-heading .featuresubHeading {
+        font-size: 20px;
+        margin-bottom: 20px !important;
+    }
+
+    .section-heading .featureHeading {
+        font-size: 16px !important;
+    }
+
+    .solid-btn {
+        margin-top: 18px !important;
+    }
+
+    .hero-content-left h1 {
+        font-size: 16px !important;
+    }
+
     .navbar {
         background: #2F3383 !important;
-        padding: .95rem 1rem;
+        padding: .2rem 1rem;
+    }
+
+    .navbar-brand .img-fluid {
+        width: 50%;
     }
 
     .white-bg.affix,
@@ -814,8 +849,12 @@ select.form-control.has-value {
         padding: 55px 0;
     }
 
-    .pt-100 {
+    /* .pt-100 {
         padding-top: 55px;
+    } */
+
+    .pt-100 {
+        padding-top: 25px;
     }
 
     .pb-100 {
@@ -1871,6 +1910,10 @@ select.form-control.has-value {
     .switchable .imageblock-section-img[class*='col-'] {
         float: none !important;
     }
+
+    .whatsapp-btn {
+        padding: 10px 10px;
+    }
 }
 
 .switchable>div[class*='col-'] {
@@ -1892,6 +1935,59 @@ select.form-control.has-value {
     .switchable.switchable-content .container>.row {
         flex-flow: row;
     }
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .main-menu ul {
+        margin-bottom: 30px;
+    }
+
+    section.promo-section.ptb-50.gray-light-bg .col-lg-3.col-sm-6 {
+        margin-bottom: 20px;
+    }
+
+    .bannercounter-wrap {
+        margin: 0 0 30px 0px !important;
+        padding: 1rem 3rem !important;
+    }
+
+    #karnabook .position-relative {
+        text-align: center;
+    }
+
+    section#about {
+        margin-top: 6rem;
+    }
+
+    .video-promo-content .row.my-5 .col {
+        margin-bottom: 30px;
+    }
+
+    .video-promo-content .row.my-5 {
+        width: 100%;
+        text-align: center;
+    }
+
+    #contact .row.mt-4 .col {
+        margin-bottom: 30px;
+    }
+
+    #contact .row.mt-4 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .bannersingle-counter span {
+        font-size: 20px !important;
+    }
+
+    .bannersingle-counter h6 {
+        font-size: 20px !important;
+        line-height: 23px !important;
+    }
+
 }
 
 .single-card {
