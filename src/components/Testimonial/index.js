@@ -39,7 +39,7 @@ class About extends React.Component {
                     <div className="d-flex align-items-center mb-2">
                       {/* <span className="ti-vector rounded mr-3 icon icon-color-1"></span> */}
                       <RiCustomerService2Line className="rounded mr-3 icon icon-color-0" />
-                      <h5 className="mb-0">Customer connects with us</h5>
+                      <h5 className="mb-0">Customer Connects With Us</h5>
                     </div>
                     <p>
                       You message us on our WhatsApp number.
@@ -77,7 +77,7 @@ class About extends React.Component {
                     </p>
                   </div>
                   <a href="https://wa.me/+919300000457" target={"_blank"} className="btn solid-btn mt-2">
-                    REGISTER NOW FOR FREE
+                    Register Now For Free
                   </a>
                 </div>
               </div>

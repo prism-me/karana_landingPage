@@ -31,7 +31,7 @@ class HeroSection extends React.Component {
               <div className="col">
                 <div className="hero-content-left text-white text-center mt-5 pt-50">
                   <h3 className="text-white">Welcome to Karna Online Book</h3>
-                  <h1 className="text-white text-uppercase">The Biggest & Most Trusted Sports Booking Platform</h1>
+                  <h1 className="text-white">The Biggest & Most Trusted Sports Booking Platform</h1>
                   <p className="lead">
                     Since 2008
                     {/* |  for 18+ only */}
@@ -40,7 +40,7 @@ class HeroSection extends React.Component {
                         Most Trusted Platform for Sports News & Events{" "}
                       </p> */}
                   <a href="https://wa.me/+918999999904" target="_blank" className="btn google-play-btn">
-                    REGISTER NOW FOR FREE
+                    Register Now For Free
                   </a>
                 </div>
               </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import { BiUserCircle } from 'react-icons/bi';
+// import { BiUserCircle } from 'react-icons/bi';
 
 class Feature extends React.Component {
   constructor(props) {
@@ -44,7 +44,7 @@ class Feature extends React.Component {
                     <img src="img/karnaimg/icon/userid.png" />
                   </div>
                   <div className="icon-text">
-                    <h5>ONLINE ID</h5>
+                    <h5>Online ID</h5>
                     <p className="mb-0">
                       Get your online cricket/sports ID and instantly start playing. Message us to get your ID now.
                     </p>
@@ -58,7 +58,7 @@ class Feature extends React.Component {
                     <img src="img/karnaimg/icon/security.png" />
                   </div>
                   <div className="icon-text">
-                    <h5>24 /7 SUPPORT</h5>
+                    <h5>24 /7 Support</h5>
                     <p className="mb-0">
                       A dedicated team of experts is always available to guide you throughout the day via WhatsApp.
                     </p>
@@ -72,7 +72,7 @@ class Feature extends React.Component {
                     <img src="img/karnaimg/icon/service.png" />
                   </div>
                   <div className="icon-text">
-                    <h5>100% TRUSTWORTHY SERVICE</h5>
+                    <h5>100% Trustworthy Service</h5>
                     <p className="mb-0">
                       Transparency is paramount to us and our customers & we keep everything clear and transparent.
                     </p>
@@ -97,7 +97,7 @@ class Feature extends React.Component {
                     <img src="img/karnaimg/icon/refil.png" />
                   </div>
                   <div className="icon-text">
-                    <h5>INSTANT WITHDRAWAL & REFILL</h5>
+                    <h5>Instant Withdrawal & Refill</h5>
                     <p className="mb-0">
                       We offer instant and unlimited withdrawal & refilling service.
                     </p>
@@ -111,7 +111,7 @@ class Feature extends React.Component {
                     <img src="img/karnaimg/icon/payment.png" />
                   </div>
                   <div className="icon-text">
-                    <h5>MULTIPLE PAYMENT METHODS</h5>
+                    <h5>Multiple Payment Methods</h5>
                     <p className="mb-0">
                       We offer convenient payment methods so you can pay via Net Banking, Bank Transfer, Paytm, Google pay, IMPS, PhonePe, etc.
                     </p>
@@ -125,7 +125,7 @@ class Feature extends React.Component {
                     <img src="img/karnaimg/icon/data.png" />
                   </div>
                   <div className="icon-text">
-                    <h5>DATA PROTECTION & SECURITY</h5>
+                    <h5>Data Protection & Security</h5>
                     <p className="mb-0">
                       We prioritize security, hence your data and your personal information is secure and is not shared at any point.
                     </p>

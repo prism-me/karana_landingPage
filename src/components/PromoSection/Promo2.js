@@ -52,7 +52,7 @@ class PromoSection extends React.Component {
                 </div>
                 <center>
                   <a href="https://wa.me/+919200000037" target={"_blank"} className="btn solid-btn mt-4">
-                    REGISTER NOW FOR FREE
+                    Register Now For Free
                   </a>
                 </center>
               </div>
@@ -72,7 +72,7 @@ class PromoSection extends React.Component {
                 </div>
                 <center>
                   <a href="https://wa.me/+918548888883" target={"_blank"} className="btn solid-btn mt-4">
-                    REGISTER NOW FOR FREE
+                    Register Now For Free
                   </a>
                 </center>
               </div>
@@ -92,7 +92,7 @@ class PromoSection extends React.Component {
                 </div>
                 <center>
                   <a href="https://wa.me/+918999999904" target={"_blank"} className="btn solid-btn mt-4">
-                    REGISTER NOW FOR FREE
+                    Register Now For Free
                   </a>
                 </center>
               </div>
@@ -112,7 +112,7 @@ class PromoSection extends React.Component {
                 </div>
                 <center>
                   <a href="https://wa.me/+917506355555" target={"_blank"} className="btn solid-btn mt-4">
-                    REGISTER NOW FOR FREE
+                    Register Now For Free
                   </a>
                 </center>
               </div>
