@@ -33,31 +33,31 @@ class Video extends React.Component {
                 <div className="video-promo-content text-center">
                   <h4 className="mt-4 text-white">WhatsApp Us Now</h4>
                   <div className="row my-5">
-                    <div className="col">
-                      <a href="https://wa.me/+919343463434" target="_blank" className="btn whatsapp-btn">
-                        <FaWhatsapp className="mb-1" /> +91 9343463434
+                    <div className="col d-flex justify-content-center align-items-center">
+                      <a href="https://wa.me/+918800000074" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 88000 00074
                       </a>
                     </div>
-                    <div className="col">
-                      <a href="https://wa.me/+917909300001" target="_blank" className="btn whatsapp-btn">
-                        <FaWhatsapp className="mb-1" /> +91 7909300001
+                    <div className="col d-flex justify-content-center align-items-center">
+                      <a href="https://wa.me/+917999299971" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 79992 99971
                       </a>
                     </div>
-                    <div className="col">
-                      <a href="https://wa.me/+917262999994" target="_blank" className="btn whatsapp-btn">
-                        <FaWhatsapp className="mb-1" /> +91 7262999994
+                    <div className="col d-flex justify-content-center align-items-center">
+                      <a href="https://wa.me/+917999429998" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 79994 29998
                       </a>
                     </div>
-                    <div className="col">
+                    {/* <div className="col">
                       <a href="https://wa.me/+917261999994" target="_blank" className="btn whatsapp-btn">
                         <FaWhatsapp className="mb-1" /> +91 7261999994
                       </a>
-                    </div>
-                    <div className="col">
+                    </div> */}
+                    {/* <div className="col">
                       <a href="https://wa.me/+918305555555" target="_blank" className="btn whatsapp-btn">
                         <FaWhatsapp className="mb-1" /> +91 8305555555
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                   <h4 className="text-white">
                     {/* <span className="ti-location-arrow mr-2"></span> */}

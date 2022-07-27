@@ -39,7 +39,7 @@ class HeroSection extends React.Component {
                   {/* <p >
                         Most Trusted Platform for Sports News & Events{" "}
                       </p> */}
-                  <a href="https://wa.me/+918999999904" target="_blank" className="btn google-play-btn">
+                  <a href="https://wa.me/+917999429998" target="_blank" className="btn google-play-btn">
                     Register Now For Free
                   </a>
                 </div>
@@ -69,7 +69,7 @@ class HeroSection extends React.Component {
                 </li>
               </ul>
               <center>
-                <a href="https://wa.me/+919300000457" target="_blank" className="btn solid-btn mt-4">
+                <a href="https://wa.me/+918800000074" target="_blank" className="btn solid-btn mt-4">
                   Create your Free Id
                 </a>
               </center>

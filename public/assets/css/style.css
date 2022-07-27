@@ -426,6 +426,7 @@ b {
     background: #009900;
     border-radius: 30px;
     padding: 10px 25px;
+    width: 100%;
 }
 
 .whatsapp-btn:hover,
@@ -1913,6 +1914,8 @@ select.form-control.has-value {
 
     .whatsapp-btn {
         padding: 10px 10px;
+        width: max-content;
+        margin-bottom: 1.5rem;
     }
 }
 

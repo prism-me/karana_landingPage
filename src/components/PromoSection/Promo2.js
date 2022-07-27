@@ -29,7 +29,7 @@ class PromoSection extends React.Component {
                     {/* Providing Online Sports ID's. */}
                     What Makes Karna Online Book Different?
                   </h5>
-                  {/* <a href="https://wa.me/+919300000457" target="_blank" className="btn whatsapp-btn mt-4 mb-4">
+                  {/* <a href="https://wa.me/+918800000074" target="_blank" className="btn whatsapp-btn mt-4 mb-4">
                     <FaWhatsapp /> Whatsapp Now
                   </a> */}
                 </div>
@@ -51,7 +51,7 @@ class PromoSection extends React.Component {
                   </div>
                 </div>
                 <center>
-                  <a href="https://wa.me/+919200000037" target={"_blank"} className="btn solid-btn mt-4">
+                  <a href="https://wa.me/+918800000074" target={"_blank"} className="btn solid-btn mt-4">
                     Register Now For Free
                   </a>
                 </center>
@@ -71,7 +71,7 @@ class PromoSection extends React.Component {
                   </div>
                 </div>
                 <center>
-                  <a href="https://wa.me/+918548888883" target={"_blank"} className="btn solid-btn mt-4">
+                  <a href="https://wa.me/+917999299971" target={"_blank"} className="btn solid-btn mt-4">
                     Register Now For Free
                   </a>
                 </center>
@@ -91,7 +91,7 @@ class PromoSection extends React.Component {
                   </div>
                 </div>
                 <center>
-                  <a href="https://wa.me/+918999999904" target={"_blank"} className="btn solid-btn mt-4">
+                  <a href="https://wa.me/+917999429998" target={"_blank"} className="btn solid-btn mt-4">
                     Register Now For Free
                   </a>
                 </center>
@@ -111,7 +111,7 @@ class PromoSection extends React.Component {
                   </div>
                 </div>
                 <center>
-                  <a href="https://wa.me/+917506355555" target={"_blank"} className="btn solid-btn mt-4">
+                  <a href="https://wa.me/+918800000074" target={"_blank"} className="btn solid-btn mt-4">
                     Register Now For Free
                   </a>
                 </center>

@@ -72,11 +72,6 @@
         margin: 7px 0;
     }
 
-    .whatsapp-btn {
-        width: 100%;
-        margin-bottom: 2rem;
-    }
-
     .solid-btn {
         width: 100%;
     }
@@ -100,10 +95,6 @@
 
     .footerbottomtext {
         text-align: center;
-    }
-
-    .whatsapp-btn {
-        margin-bottom: 2rem;
     }
 }
 
