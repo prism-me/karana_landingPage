@@ -76,7 +76,7 @@ class About extends React.Component {
                       You start playing and earn as much as you can depending on your skills.
                     </p>
                   </div>
-                  <a href="https://wa.me/+917999429998" target={"_blank"} className="btn solid-btn mt-2">
+                  <a href="https://wa.me/+918800000074" target={"_blank"} className="btn solid-btn mt-2">
                     Register Now For Free
                   </a>
                 </div>

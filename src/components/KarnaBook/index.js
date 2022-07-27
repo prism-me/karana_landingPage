@@ -50,11 +50,11 @@ class KarnaBook extends React.Component {
                       <FaWhatsapp className="mb-1" /> +91 79994 29998
                     </a>
                   </div>
-                  {/* <div className="col">
-                    <a href="https://wa.me/+917261999994" target="_blank" className="btn whatsapp-btn">
-                      <FaWhatsapp className="mb-1" /> +91 7261999994
+                  <div className="col d-flex justify-content-center align-items-center">
+                    <a href="https://wa.me/+919343463434" target="_blank" className="btn whatsapp-btn">
+                      <FaWhatsapp className="mb-1" /> +91 93434 63434
                     </a>
-                  </div> */}
+                  </div>
                   {/* <div className="col">
                     <a href="https://wa.me/+918305555555" target="_blank" className="btn whatsapp-btn">
                       <FaWhatsapp className="mb-1" /> +91 8305555555

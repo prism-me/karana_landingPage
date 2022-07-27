@@ -29,10 +29,10 @@ class About extends React.Component {
                   <p>
                     Karna Online Book is India's No 1 Exchange and the first of its kind providing a 24/7 withdrawal facility. We offer you a genuinely unique sports experience. We also offer global liquidity & the best industry pricing with a single click. Get Fantasy Sports IDs to play a variety of fantasy sports including fantasy cricket, fantasy football, fantasy baseball, fantasy basketball, fantasy hockey, fantasy soccer, fantasy golf as well as fantasy Esports.{" "}
                   </p>
-                  <a href="https://wa.me/+918800000074" target="_blank" className="btn solid-btn mt-2 mr-3" style={{ borderRadius: "0" }}>
-                    Whatsapp Us at +91 88000 00074
+                  <a href="https://wa.me/+919343463434" target="_blank" className="btn solid-btn mt-2 mr-3" style={{ borderRadius: "0" }}>
+                    Whatsapp Us at +91 93434 63434
                   </a>
-                  <a href="https://wa.me/+917999299971" target="_blank" className="btn solid-btn mt-2"
+                  <a href="https://wa.me/+917999429998" target="_blank" className="btn solid-btn mt-2"
                     style={{ borderRadius: "0", background: "white", border: "1px solid #F69C06", color: "#F69C06" }}>
                     Get Your Demo ID Now
                   </a>

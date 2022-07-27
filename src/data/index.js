@@ -19,7 +19,7 @@ module.exports = {
       {
         image: "img/karnaimg/team/team4.png",
         btntxt: "SKY EXCHANGE",
-        link: "https://wa.me/+918800000074"
+        link: "https://wa.me/+919343463434"
       },
       {
         image: "img/karnaimg/team/team5.png",

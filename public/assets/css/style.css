@@ -1919,6 +1919,14 @@ select.form-control.has-value {
     }
 }
 
+@media (max-width: 991px) {
+
+    .whatsapp-btn {
+        width: max-content;
+        margin-bottom: 1rem;
+    }
+}
+
 .switchable>div[class*='col-'] {
     padding: 0;
 }

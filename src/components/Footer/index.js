@@ -48,7 +48,7 @@ class Footer extends React.Component {
                     </p>
                     <div className="social-list-wrap">
                       <h5 className="mb-3 text-white">
-                        Start Playing Now <a href="https://wa.me/+918800000074" target="_blank" className="text-white"><BsArrowRightSquare className="ml-2" /></a>
+                        Start Playing Now <a href="https://wa.me/+917999299971" target="_blank" className="text-white"><BsArrowRightSquare className="ml-2" /></a>
                       </h5>
                       <ul className="social-list list-inline list-unstyled">
                         <li className="list-inline-item">
@@ -62,7 +62,7 @@ class Footer extends React.Component {
                           </a>
                         </li>
                         <li className="list-inline-item">
-                          <a href="https://wa.me/+917999299971" target="_blank" title="WhatsApp">
+                          <a href="https://wa.me/+917999429998" target="_blank" title="WhatsApp">
                             <FaWhatsapp className="footersocialicon" />
                           </a>
                         </li>
@@ -86,11 +86,11 @@ class Footer extends React.Component {
                         <FaWhatsapp className="mr-2" />{" "}
                         <a href="https://wa.me/+917999429998" target="_blank">+91 79994 29998</a>
                       </li>
-                      {/* <li className="mb-3 d-flex align-items-center">
+                      <li className="mb-3 d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
-                        <a href="https://wa.me/+917261999994" target="_blank">+91 7261999994</a>
+                        <a href="https://wa.me/+919343463434" target="_blank">+91 93434 63434</a>
                       </li>
-                      <li className="d-flex align-items-center">
+                      {/* <li className="d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
                         <a href="https://wa.me/+918305555555" target="_blank">+91 8305555555</a>
                       </li> */}

@@ -111,7 +111,7 @@ class PromoSection extends React.Component {
                   </div>
                 </div>
                 <center>
-                  <a href="https://wa.me/+918800000074" target={"_blank"} className="btn solid-btn mt-4">
+                  <a href="https://wa.me/+919343463434" target={"_blank"} className="btn solid-btn mt-4">
                     Register Now For Free
                   </a>
                 </center>
