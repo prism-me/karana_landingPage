@@ -9,7 +9,7 @@ module.exports = {
       {
         image: "img/karnaimg/team/team2.png",
         btntxt: "LORD",
-        link: "https://wa.me/+917999299971"
+        link: "https://wa.me/+918305555555"
       },
       {
         image: "img/karnaimg/team/team3.png",
@@ -24,7 +24,7 @@ module.exports = {
       {
         image: "img/karnaimg/team/team5.png",
         btntxt: "TIGER EXCHANGE",
-        link: "https://wa.me/+917999299971"
+        link: "https://wa.me/+918305555555"
       }
     ]
   }

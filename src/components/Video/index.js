@@ -39,8 +39,8 @@ class Video extends React.Component {
                       </a>
                     </div>
                     <div className="col d-flex justify-content-center align-items-center">
-                      <a href="https://wa.me/+917999299971" target="_blank" className="btn whatsapp-btn">
-                        <FaWhatsapp className="mb-1" /> +91 79992 99971
+                      <a href="https://wa.me/+918305555555" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 83055 55555
                       </a>
                     </div>
                     <div className="col d-flex justify-content-center align-items-center">

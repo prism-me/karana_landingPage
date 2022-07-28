@@ -48,7 +48,7 @@ class Footer extends React.Component {
                     </p>
                     <div className="social-list-wrap">
                       <h5 className="mb-3 text-white">
-                        Start Playing Now <a href="https://wa.me/+917999299971" target="_blank" className="text-white"><BsArrowRightSquare className="ml-2" /></a>
+                        Start Playing Now <a href="https://wa.me/+918305555555" target="_blank" className="text-white"><BsArrowRightSquare className="ml-2" /></a>
                       </h5>
                       <ul className="social-list list-inline list-unstyled">
                         <li className="list-inline-item">
@@ -80,7 +80,7 @@ class Footer extends React.Component {
                       </li>
                       <li className="mb-3 d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}
-                        <a href="https://wa.me/+917999299971" target="_blank">+91 79992 99971</a>
+                        <a href="https://wa.me/+918305555555" target="_blank">+91 83055 55555</a>
                       </li>
                       <li className="mb-3 d-flex align-items-center">
                         <FaWhatsapp className="mr-2" />{" "}

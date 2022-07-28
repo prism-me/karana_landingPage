@@ -69,7 +69,7 @@ class HeroSection extends React.Component {
                 </li>
               </ul>
               <center>
-                <a href="https://wa.me/+917999299971" target="_blank" className="btn solid-btn mt-4">
+                <a href="https://wa.me/+918305555555" target="_blank" className="btn solid-btn mt-4">
                   Create your Free Id
                 </a>
               </center>
