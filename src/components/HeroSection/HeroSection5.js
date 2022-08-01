@@ -1,5 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
+import { FaWhatsapp } from 'react-icons/fa';
 
 class HeroSection extends React.Component {
   constructor(props) {
@@ -39,9 +40,29 @@ class HeroSection extends React.Component {
                   {/* <p >
                         Most Trusted Platform for Sports News & Events{" "}
                       </p> */}
-                  <a href="https://wa.me/+918800000074" target="_blank" className="btn google-play-btn">
-                    Register Now For Free
-                  </a>
+                  <div className="row">
+                    <div className="col d-flex justify-content-center align-items-center">
+                      <a href="https://wa.me/+918800000074" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 88000 00074
+                      </a>
+                    </div>
+                    <div className="col d-flex justify-content-center align-items-center">
+                      <a href="https://wa.me/+918305555555" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 83055 55555
+                      </a>
+                    </div>
+                    <div className="col d-flex justify-content-center align-items-center">
+                      <a href="https://wa.me/+917999429998" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 79994 29998
+                      </a>
+                    </div>
+                    <div className="col d-flex justify-content-center align-items-center">
+                      <a href="https://wa.me/+919343463434" target="_blank" className="btn whatsapp-btn">
+                        <FaWhatsapp className="mb-1" /> +91 93434 63434
+                      </a>
+                    </div>
+                  </div>
+
                 </div>
               </div>
             </div>
